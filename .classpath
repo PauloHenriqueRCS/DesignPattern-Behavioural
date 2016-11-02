@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Command"/>
+	<classpathentry kind="src" path="Iterator"/>
+	<classpathentry kind="src" path="Mediator"/>
+	<classpathentry kind="src" path="Observer"/>
+	<classpathentry kind="src" path="State"/>
+	<classpathentry kind="src" path="Strategy"/>
+	<classpathentry kind="src" path="TemplateMethod"/>
+	<classpathentry kind="src" path="Visitor"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
